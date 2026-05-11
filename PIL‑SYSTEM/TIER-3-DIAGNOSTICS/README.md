@@ -5,7 +5,7 @@ Diagnostics do not correct behaviour; they only surface deviations.
 
 Contents
 - PIL‑WV‑01 — Wrong Vector
-- PIL‑KS‑01 — Kernel Slip
+
 
 Category Definition
 Tier 3 diagnostics:
